@@ -4,7 +4,7 @@ I make a P.O.S system with python for small shop using Python. For the database 
 _`PYTHON 3.8`To run this project you can start from session_start.py, and for the database
 you can change the path at `server.py`, var `SERVER_PATH`_ to actual local db location
 
-_~~I will add a function to access server database~~_
+_~~I will add a function to access server database~~_ 
 
 
 ###### TO EDIT SQLITE DB You need to download DB BROWSER for SQLite
